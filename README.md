@@ -1,4 +1,9 @@
+# freeCodeCamp
 # JavaScript_Algorithms_and_Data_Structures
+
+
+![FreeCodeCamp](https://github.com/AMSANJEEV28/JavaScript_Algorithms_and_Data_Structures/assets/81654437/8117646b-c847-4503-8853-5696ad206d34)
+
 
 In my repository, I have curated a collection of resources and projects centered around the JavaScript Algorithm and Data Structures Certification. This certification is designed to help you master the fundamentals of JavaScript and apply them to create interactive web pages.
 
